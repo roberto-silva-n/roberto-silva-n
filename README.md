@@ -1,47 +1,53 @@
-# Olá! Eu sou o Roberto 👋 | Hi! I'm Roberto 👋
+# Francisco Roberto Silva do Nascimento
 
-## 🇧🇷 Sobre mim
+### Estudante de Engenharia de Software | Software Engineering Student
 
-Sou estudante de **Engenharia de Software na UNINTER**, construindo minha jornada na programação e no desenvolvimento de software.
+Construindo conhecimento em programação, um projeto de cada vez.
 
-Atualmente, estou fortalecendo meus fundamentos de programação, aprendendo ferramentas de desenvolvimento e transformando conhecimento em projetos práticos.
-
-- 🎓 Bacharelado em Engenharia de Software
-- 🐍 Estudando Python e lógica de programação
-- 🛠️ Aprendendo Git e GitHub para versionamento de código
-- 🤖 Interesse em Inteligência Artificial, LLMs e robótica
-- 🚀 Objetivo: desenvolver projetos úteis e evoluir continuamente como desenvolvedor
-
-## 🇺🇸 About me
-
-I'm a **Software Engineering student at UNINTER**, building my skills in programming and software development.
-
-I'm currently strengthening my programming fundamentals, learning development tools, and turning knowledge into practical projects.
-
-- 🎓 Bachelor's degree studies in Software Engineering
-- 🐍 Learning Python and programming logic
-- 🛠️ Learning Git and GitHub for version control
-- 🤖 Interested in Artificial Intelligence, LLMs, and robotics
-- 🚀 Goal: build useful projects and keep growing as a developer
-
-## 🧰 Tecnologias e ferramentas | Technologies & Tools
-
-- **Linguagem / Language:** Python (em aprendizado / currently learning)
-- **Versionamento / Version control:** Git e GitHub (em aprendizado / currently learning)
-- **Fundamentos / Fundamentals:** Lógica de programação e desenvolvimento de software
-
-## 🚀 Projetos | Projects
-
-Estou preparando projetos práticos para aplicar meus conhecimentos. Esta seção será atualizada conforme novos projetos forem desenvolvidos.
-
-I'm preparing hands-on projects to apply my knowledge. This section will be updated as new projects are developed.
-
-## 📫 Contato | Contact
-
-- GitHub: [@roberto-silva-n](https://github.com/roberto-silva-n)
+Learning software development, one project at a time.
 
 ---
 
-*Aprendendo, construindo e evoluindo um projeto de cada vez.*
+## Sobre mim | About me
 
-*Learning, building, and growing one project at a time.*
+**PT-BR**
+
+Sou estudante de Bacharelado em Engenharia de Software na UNINTER e estou desenvolvendo minhas habilidades em programação e desenvolvimento de software. Meu objetivo é transformar o aprendizado em projetos práticos, construir uma base técnica sólida e evoluir continuamente.
+
+**English**
+
+I'm a Software Engineering student at UNINTER, developing my skills in programming and software development. My goal is to turn learning into practical projects, build a strong technical foundation, and keep improving.
+
+## Atualmente estou aprendendo | Currently learning
+
+- **Python:** lógica de programação e prática com pequenos programas.
+- **Git e GitHub:** versionamento de código e organização de projetos.
+- **Fundamentos de software:** escrita, estrutura e manutenção de código.
+
+- **Python:** programming logic and small practical programs.
+- **Git and GitHub:** version control and project organization.
+- **Software fundamentals:** writing, structuring, and maintaining code.
+
+## Interesses | Interests
+
+- Desenvolvimento de software | Software development
+- Inteligência Artificial e LLMs | Artificial Intelligence and LLMs
+- Robótica e automação | Robotics and automation
+- Testes de software e boas práticas | Software testing and best practices
+
+## Projetos | Projects
+
+Esta seção será atualizada com projetos práticos, incluindo documentação, tecnologias utilizadas e instruções para execução.
+
+This section will feature hands-on projects, with documentation, technologies used, and instructions to run them.
+
+## Contato | Contact
+
+- GitHub: [@roberto-silva-n](https://github.com/roberto-silva-n)
+- LinkedIn: disponível no perfil do GitHub.
+
+---
+
+*Aprendendo, praticando e evoluindo continuamente.*
+
+*Learning, practicing, and continuously improving.*
